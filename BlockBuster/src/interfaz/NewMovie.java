@@ -326,24 +326,10 @@ public class NewMovie extends javax.swing.JInternalFrame {
 
     private void tfTitleKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_tfTitleKeyTyped
         // TODO add your handling code here:
-//       String txt = tfTitle.getText();
-//       if ("".equals(txt)){
-//           errors[0] = "Assign a title to the movie";
-//       }else{
-//           errors[0] = "";
-//       }
-//       updateErrors(0);
     }//GEN-LAST:event_tfTitleKeyTyped
 
     private void tfYearKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_tfYearKeyTyped
         // TODO add your handling code here:
-//        String txt = tfGenre.getText();
-//        if ("".equals(txt)){
-//           errors[1] = "Assign a genre to the movie";
-//       }else{
-//           errors[1] = "";
-//       }
-//       updateErrors(1);
     }//GEN-LAST:event_tfYearKeyTyped
 
     //Closes the window 
@@ -360,24 +346,6 @@ public class NewMovie extends javax.swing.JInternalFrame {
     private void tfUnitsKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_tfUnitsKeyTyped
         // TODO add your handling code here:
     }//GEN-LAST:event_tfUnitsKeyTyped
-
-//    private void updateErrors(int index){
-//        String error = "";
-//        if (anyError(index)){
-//            for (String err : errors){
-//                if (!err.equals("")){
-//                    error += err;
-//                    error += "\n";
-//                }
-//            }
-//        }
-//        System.out.println(error);
-//        labelError.setText(error);
-//    }
-//    
-//    private boolean anyError(int index){
-//        return !errors[index].equals("");
-//    }
     
     //Getter
     public JComboBox<String> getCmbxDirector() {

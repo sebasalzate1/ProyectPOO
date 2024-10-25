@@ -8,7 +8,7 @@ import java.util.Vector;
 
 /**
  *
- * @author SEBAS
+ * @author USER
  */
 public class Movie {
 

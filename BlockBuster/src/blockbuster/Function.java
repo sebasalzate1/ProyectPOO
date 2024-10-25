@@ -10,7 +10,7 @@ import java.util.regex.Pattern;
 
 /**
  *
- * @author SEBAS
+ * @author USER
  */
 public class Function {
     

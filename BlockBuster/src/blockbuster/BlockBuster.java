@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 
 /**
  *
- * @author SEBAS
+ * @author USER
  */
 public class BlockBuster {
 

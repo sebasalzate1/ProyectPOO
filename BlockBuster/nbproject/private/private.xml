@@ -3,10 +3,22 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/USER/Desktop/sebas/Logica%202%20y%20Tecnicas/Tecnicas/Proyectos/BlockBuster/src/interfaz/NewRent.java</file>
-            <file>file:/C:/Users/USER/Desktop/sebas/Logica%202%20y%20Tecnicas/Tecnicas/Proyectos/BlockBuster/src/interfaz/MovieInventory.java</file>
-            <file>file:/C:/Users/USER/Desktop/sebas/Logica%202%20y%20Tecnicas/Tecnicas/Proyectos/BlockBuster/src/interfaz/ClientList.java</file>
-            <file>file:/C:/Users/USER/Desktop/sebas/Logica%202%20y%20Tecnicas/Tecnicas/Proyectos/BlockBuster/src/interfaz/ShowRentals.java</file>
+            <file>file:/C:/Users/USER/Desktop/sebas/Logica%202%20y%20Tecnicas/Tecnicas/Proyectos/Github/ProyectPOO/BlockBuster/src/blockbuster/Director.java</file>
+            <file>file:/C:/Users/USER/Desktop/sebas/Logica%202%20y%20Tecnicas/Tecnicas/Proyectos/Github/ProyectPOO/BlockBuster/src/blockbuster/Genre.java</file>
+            <file>file:/C:/Users/USER/Desktop/sebas/Logica%202%20y%20Tecnicas/Tecnicas/Proyectos/Github/ProyectPOO/BlockBuster/src/blockbuster/Rental.java</file>
+            <file>file:/C:/Users/USER/Desktop/sebas/Logica%202%20y%20Tecnicas/Tecnicas/Proyectos/Github/ProyectPOO/BlockBuster/src/blockbuster/Movie.java</file>
+            <file>file:/C:/Users/USER/Desktop/sebas/Logica%202%20y%20Tecnicas/Tecnicas/Proyectos/Github/ProyectPOO/BlockBuster/src/interfaz/ShowRentals.java</file>
+            <file>file:/C:/Users/USER/Desktop/sebas/Logica%202%20y%20Tecnicas/Tecnicas/Proyectos/Github/ProyectPOO/BlockBuster/src/interfaz/NewDirector.java</file>
+            <file>file:/C:/Users/USER/Desktop/sebas/Logica%202%20y%20Tecnicas/Tecnicas/Proyectos/Github/ProyectPOO/BlockBuster/src/blockbuster/Person.java</file>
+            <file>file:/C:/Users/USER/Desktop/sebas/Logica%202%20y%20Tecnicas/Tecnicas/Proyectos/Github/ProyectPOO/BlockBuster/src/blockbuster/Customer.java</file>
+            <file>file:/C:/Users/USER/Desktop/sebas/Logica%202%20y%20Tecnicas/Tecnicas/Proyectos/Github/ProyectPOO/BlockBuster/src/interfaz/NewMovie.java</file>
+            <file>file:/C:/Users/USER/Desktop/sebas/Logica%202%20y%20Tecnicas/Tecnicas/Proyectos/Github/ProyectPOO/BlockBuster/src/interfaz/NewClient.java</file>
+            <file>file:/C:/Users/USER/Desktop/sebas/Logica%202%20y%20Tecnicas/Tecnicas/Proyectos/Github/ProyectPOO/BlockBuster/src/interfaz/MovieInventory.java</file>
+            <file>file:/C:/Users/USER/Desktop/sebas/Logica%202%20y%20Tecnicas/Tecnicas/Proyectos/Github/ProyectPOO/BlockBuster/src/interfaz/ClientList.java</file>
+            <file>file:/C:/Users/USER/Desktop/sebas/Logica%202%20y%20Tecnicas/Tecnicas/Proyectos/Github/ProyectPOO/BlockBuster/src/interfaz/NewRent.java</file>
+            <file>file:/C:/Users/USER/Desktop/sebas/Logica%202%20y%20Tecnicas/Tecnicas/Proyectos/Github/ProyectPOO/BlockBuster/src/interfaz/PrincipalPanel.java</file>
+            <file>file:/C:/Users/USER/Desktop/sebas/Logica%202%20y%20Tecnicas/Tecnicas/Proyectos/Github/ProyectPOO/BlockBuster/src/blockbuster/BlockBuster.java</file>
+            <file>file:/C:/Users/USER/Desktop/sebas/Logica%202%20y%20Tecnicas/Tecnicas/Proyectos/Github/ProyectPOO/BlockBuster/src/blockbuster/Function.java</file>
         </group>
     </open-files>
 </project-private>

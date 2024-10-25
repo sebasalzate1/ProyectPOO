@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author SEBAS
+ * @author USER
  */
 public class NewDirector extends javax.swing.JFrame {
     private NewMovie parent;

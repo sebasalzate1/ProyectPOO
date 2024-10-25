@@ -6,7 +6,7 @@ package blockbuster;
 
 /**
  *
- * @author SEBAS
+ * @author USER
  */
 public class Director extends Person {
 

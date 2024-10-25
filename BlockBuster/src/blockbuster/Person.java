@@ -3,7 +3,7 @@ package blockbuster;
 
 /**
  *
- * @author SEBAS
+ * @author USER
  */
 public class Person {
 

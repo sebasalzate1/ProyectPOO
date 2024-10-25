@@ -10,7 +10,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author SEBAS
+ * @author USER
  */
 public class ShowRentals extends javax.swing.JInternalFrame {
     PrincipalPanel parent;

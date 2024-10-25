@@ -6,7 +6,7 @@ package blockbuster;
 
 /**
  *
- * @author SEBAS
+ * @author USER
  */
 public class Genre {
     private static int counter = 0;
